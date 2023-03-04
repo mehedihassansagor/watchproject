@@ -9,7 +9,7 @@ const options = [
     items: [
       {
         title: "Time-Trackers",
-        description: "Some Text",
+        description: "WELL EDUCATION",
       },
       {
         title: "Exclusive Music",

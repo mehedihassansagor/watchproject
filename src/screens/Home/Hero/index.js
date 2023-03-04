@@ -15,7 +15,7 @@ const Hero = ({ scrollToRef }) => {
             Train smarter. get stronger
           </div>
           <h1 className={cn("h1", styles.title)}>
-            Simple fitness experience for everyone.
+            Zeus
           </h1>
           <div className={styles.text}>
             Track your workouts, get better results, and be the bestversion of
