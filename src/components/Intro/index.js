@@ -40,7 +40,7 @@ const Intro = ({ scrollToRef }) => {
             the best version of you. Less thinking, more lifting 🔥🏀
           </div>
           <Link className={cn("button", styles.button)} to="/download">
-            Start free trial
+            Download App
           </Link>
         </div>
       </div>

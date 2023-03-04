@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import styles from "./Workouts.module.sass";
 import Image from "../Image";
 import ScrollParallax from "../ScrollParallax";
+import Pricing from './../../screens/Pricing/index';
 
 const items = [
   "Fitness Pro Cloud",
@@ -59,10 +60,10 @@ const Workouts = () => {
           </ul>
           <div className={styles.btns}>
             <Link className={cn("button", styles.button)} to="/pricing">
-              Choose Plan
+              View Pricing
             </Link>
             <button className={cn("button-stroke", styles.button)}>
-              Request a demo
+              Download App
             </button>
           </div>
         </div>

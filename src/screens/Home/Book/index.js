@@ -5,6 +5,7 @@ import styles from "./Book.module.sass";
 import Icon from "../../../components/Icon";
 import Image from "../../../components/Image";
 import ScrollParallax from "../../../components/ScrollParallax";
+import Trainer from './../../../components/Testimonials/index';
 
 const items = [
   {
@@ -79,7 +80,7 @@ const Book = () => {
           </ScrollParallax>
         </div>
         <div className={styles.wrap}>
-          <h2 className={cn("h2", styles.title)}>Book a class</h2>
+          <h2 className={cn("h2", styles.title)}>Become Trainers</h2>
           <div className={styles.info}>
             Track your workouts, get better results, and be the best version of
             you. Less thinking, more lifting.
@@ -107,7 +108,7 @@ const Book = () => {
           </div>
           <div className={styles.btns}>
             <Link className={cn("button", styles.button)} to="/class02-details">
-              <span>Book a class</span>
+              <span>View Pricing</span>
               <Icon name="arrow-right" size="10" />
             </Link>
           </div>

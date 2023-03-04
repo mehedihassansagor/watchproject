@@ -15,7 +15,7 @@ const Hero = ({ scrollToRef }) => {
             Train smarter. get stronger
           </div>
           <h1 className={cn("h1", styles.title)}>
-            Zeus
+            ZEUS
           </h1>
           <div className={styles.text}>
             Track your workouts, get better results, and be the bestversion of
@@ -23,13 +23,13 @@ const Hero = ({ scrollToRef }) => {
           </div>
           <div className={styles.btns}>
             <Link className={cn("button", styles.button)} to="/download">
-              Download App
+              Learn more
             </Link>
             <Link
               className={cn("button-stroke", styles.button)}
               to="/class02-details"
             >
-              Book a Class
+              Download The App
             </Link>
           </div>
         </ScrollParallax>

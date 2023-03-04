@@ -9,8 +9,9 @@ import Class01 from "./screens/Class01";
 import Class01Details from "./screens/Class01Details";
 import Class02 from "./screens/Class02";
 import Class02Details from "./screens/Class02Details";
-import Lifestyle from "./screens/Lifestyle";
+// import Lifestyle from "./screens/Lifestyle";
 import Article from "./screens/Article";
+import Programs from './screens/Programs/Programs';
 
 function App() {
   return (
@@ -90,10 +91,10 @@ function App() {
         />
         <Route
           exact
-          path="/lifestyle"
+          path="/programs"
           render={() => (
             <Page>
-              <Lifestyle />
+              <Programs />
             </Page>
           )}
         />

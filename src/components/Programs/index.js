@@ -108,7 +108,7 @@ const Programs = ({ classNameTitle, title, classNameSection, scrollToRef }) => {
           <div className={cn(styles.title, classNameTitle)}>{title}</div>
           <div className={styles.info}>
             <strong className={styles.green}>10% Discount</strong> if you’re
-            already using the{" "}
+            already using the
             <strong className={styles.black}>Fitness Pro</strong> on App Store
           </div>
         </div>
@@ -129,7 +129,7 @@ const Programs = ({ classNameTitle, title, classNameSection, scrollToRef }) => {
                     className={cn("button-stroke", styles.button)}
                     to={x.url}
                   >
-                    Book a class
+                    View Pricing
                   </Link>
                 </div>
               </ScrollParallax>
