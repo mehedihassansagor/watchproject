@@ -20,7 +20,7 @@ const Community = () => {
         <div className={cn("stage-small", styles.stage)}>
           Save your time with Stacks
         </div>
-        <h2 className={cn("h2", styles.title)}>Join Fitness Pro Community</h2>
+        <h2 className={cn("h2", styles.title)}>Join Zeus Community</h2>
         <div className={styles.text}>
           Join Stacks community now to get free updates and also alot of
           freebies are waiting for you.

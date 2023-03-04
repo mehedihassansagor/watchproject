@@ -6,7 +6,7 @@ import ScrollParallax from "../../../components/ScrollParallax";
 
 const items = [
   {
-    title: "Fitness Pro for Mac OS",
+    title: "Zeus for Mac OS",
     description: "We realize ideas from simple.",
     color: "#FF592C",
     image: "/images/content/apple.svg",
@@ -14,7 +14,7 @@ const items = [
     statusContent: "updated",
   },
   {
-    title: "Fitness Pro for Windows",
+    title: "Zeus for Windows",
     description: "We realize ideas from simple.",
     color: "#45B26B",
     image: "/images/content/windows.svg",
@@ -22,7 +22,7 @@ const items = [
     statusContent: "coming soon",
   },
   {
-    title: "Fitness Pro for Mac OS",
+    title: "Zeus for Mac OS",
     description: "We realize ideas from simple.",
     color: "#EF466F",
     image: "/images/content/mouse.svg",
@@ -30,7 +30,7 @@ const items = [
     statusContent: "coming soon",
   },
   {
-    title: "Fitness Pro for Mac OS",
+    title: "Zeus for Mac OS",
     description: "We realize ideas from simple.",
     color: "#3772FF",
     image: "/images/content/apple.svg",
@@ -38,7 +38,7 @@ const items = [
     statusContent: "coming soon",
   },
   {
-    title: "Fitness Pro for Android",
+    title: "Zeus for Android",
     description: "We realize ideas from simple.",
     color: "#9757D7",
     image: "/images/content/android.svg",

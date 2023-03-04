@@ -22,10 +22,10 @@ const Hero = () => {
         <div className={styles.col}>
           <div className={styles.wrap}>
             <div className={cn("stage", styles.stage)}>
-              time to get fitness pro
+              time to get Zeus
             </div>
             <h1 className={cn("h1", styles.title)}>
-              Fitness Pro for any device.
+              Zeus for any device.
             </h1>
             <div className={styles.text}>
               Track your workouts, get better results, and be the best version
